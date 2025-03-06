@@ -1,0 +1,3 @@
+# R Package Dependencies for Media Impact on Complaint Engagement
+ggplot2
+ivreg
